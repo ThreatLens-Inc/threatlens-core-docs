@@ -2,7 +2,7 @@
 
 **Built for Security Teams. Designed by Experts. Powered by AI.**
 
-ThreatLens is a next-generation, multi-agent cybersecurity platform that accelerates threat detection, investigation, and response through intelligent automation and real-time threat intelligence enrichment.
+ThreatLens Core is a next-generation, multi-agent cybersecurity platform that accelerates threat detection, investigation, and response through intelligent automation and real-time threat intelligence enrichment.
 
 ---
 
@@ -104,16 +104,6 @@ ThreatLens leverages private LLM APIs or your custom models to:
 
 ---
 
-## 📈 Roadmap
-
-- [ ] Multi-tenant support for MSSPs
-- [ ] SOC terminal dashboard (React + WebSockets)
-- [ ] Agentless deployment for CNAPP module
-- [ ] ThreatLens Mobile App (MVP in progress)
-- [ ] Plugin SDK for third-party threat sources
-
----
-
 ## 🤝 Contributing
 
 Want to help us build the future of threat intelligence?  
@@ -131,5 +121,3 @@ Contact [sales@thethreatlens.com](mailto:sales@thethreatlens.com) for enterprise
 ## 🌐 Website & Docs
 
 - [🌍 Website](https://thethreatlens.com)
-- [📚 Docs](https://docs.thethreatlens.com)
-- [📊 Live Attack Map](https://attackview.thethreatlens.com)
